@@ -1,14 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+na+TI+🚀" />
 </h1>
 
 ---
 
-## 💫 Sobre mim
+## 👩‍💻 Sobre mim
 
 ```diff
-+ 👩‍💻 Nome: Thalita
-+ 🎓 Curso: Análise e Desenvolvimento de Sistemas
++ 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 + 😄 Pronomes: ela/dela
 + 💼 Procurando vaga de emprego
 + 📫 Email: thaltav694@gmail.com
@@ -16,7 +15,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -31,9 +30,7 @@
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-
-<img src="https://github.com/thalita-front/thalita-front/blob/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/thalita-front/thalita-front/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -43,14 +40,11 @@
 <div align="center">
 
 <a href="https://instagram.com/thalitzhc" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-thalitzhc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Instagram-@thalitzhc-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thalita-front/thalita-front/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <h3 align="center">✨ Obrigada por visitar meu perfil ✨</h3>
