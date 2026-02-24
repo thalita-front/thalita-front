@@ -1,8 +1,10 @@
-# Olá, eu sou a Thalita! 👋 ✨
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ea999c&height=150&section=header&text=ADS%20Student%20&%20Front-end%20Enthusiast&fontSize=30&animation=fadeIn" />
-</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+na+TI+🚀" />
+</h1>
+
 
 ### 👩‍💻 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
