@@ -1,51 +1,66 @@
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+🚀" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3A5A6E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Thalita+👋;Estudante+de+ADS+💻;Em+busca+de+oportunidade+na+TI+🚀" />
-</h1>
-
-
-### 👩‍💻 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🙋‍♀️ Pronomes: **Ela/Dela**
-- 🚀 Atualmente mergulhando no ecossistema Front-end e UX/UI.
-- 🔍 **Disponível para oportunidades de estágio e Junior!**
-- 📧 Contato profissional: [thalita694@gmail.com](mailto:thalita694@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=system.init()+--identity+Thalita+Vitoria;status:+Software+Engineering+Student;focus:+Data+%26+Development" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Minha Toolbox
+### 🟢 Perfil Profissional
+
+Graduanda em **Análise e Desenvolvimento de Sistemas**, com foco em engenharia de dados e desenvolvimento de software. Busco aplicar rigor técnico e pensamento analítico para otimizar processos e construir aplicações resilientes.
+
+- **Diferenciais:** Proficiência em **Inglês** e visão analítica de negócios.
+- **Especialidades:** Desenvolvimento Back-end, Análise de Dados e Infraestrutura Cloud.
+- **Objetivo:** Contribuir em projetos de alto impacto que exijam inovação tecnológica e ética profissional.
+- **Contato:** [thalitav694@gmail.com](mailto:thalitav694@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Development & Data**
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4AF626" />
+</div>
+
+**Analysis & Infrastructure**
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-000000?style=for-the-badge&logo=icloud&logoColor=4AF626" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4AF626" />
 </div>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Performance Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalita-front&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalita-front&layout=compact&langs_count=7&theme=rose_pine&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thalita-front&show_icons=true&theme=green_snake&hide_border=true&v=2" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalita-front&layout=compact&theme=green_snake&hide_border=true&v=2" height="170" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thalita-front&theme=rose_pine&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalita-front&theme=green_snake&hide_border=true&v=2" width="100%" />
 </div>
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Conexões Estratégicas
 
 <div align="center">
-  
   <a href="https://www.instagram.com/thalitzhc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=4AF626" />
   </a>
+  <a href="mailto:thalitav694@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=4AF626" />
+  </a>
+</div>
 
-  <a href="mailto:thalita694@gmail.com">
-    <img src="
+---
+
+<div align="center">
+  <code>"A excelência tecnológica é o resultado da disciplina aliada à curiosidade intelectual."</code>
+</div>
