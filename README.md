@@ -35,15 +35,6 @@ Graduanda em **Análise e Desenvolvimento de Sistemas**, com foco em engenharia 
 
 ---
 
-### 📊 Análise de Desempenho
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalita-front&theme=matrix&show_icons=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalita-front&theme=matrix&layout=compact&hide_border=true" height="180" />
-</div>
-
----
-
 ### 🌐 Conexões Estratégicas
 
 <div align="center">
