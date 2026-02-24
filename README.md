@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=900&lines=system.init()+--identity+Thalita+Vitoria;status:+Software+Engineering+Student;focus:+Data+%26+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=1000&lines=system.init()+--identity+Thalita+Vitoria;status:+Software+Engineering+Student;focus:+Data+%26+Development" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,9 +15,9 @@ Graduanda em **Análise e Desenvolvimento de Sistemas**, com foco em engenharia 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tecnologias e Habilidades
 
-**Development & Data**
+**Desenvolvimento e Dados**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4AF626" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4AF626" />
@@ -26,7 +26,7 @@ Graduanda em **Análise e Desenvolvimento de Sistemas**, com foco em engenharia 
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4AF626" />
 </div>
 
-**Analysis & Infrastructure**
+**Análise e Infraestrutura**
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=4AF626" />
   <img src="https://img.shields.io/badge/Cloud_Computing-000000?style=for-the-badge&logo=icloud&logoColor=4AF626" />
@@ -35,15 +35,11 @@ Graduanda em **Análise e Desenvolvimento de Sistemas**, com foco em engenharia 
 
 ---
 
-### 📊 Performance Analytics
+### 📊 Análise de Desempenho
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalita-front&show_icons=true&theme=green_snake&hide_border=true&v=2" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalita-front&layout=compact&theme=green_snake&hide_border=true&v=2" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalita-front&theme=green_snake&hide_border=true&v=2" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thalita-front&theme=matrix&show_icons=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalita-front&theme=matrix&layout=compact&hide_border=true" height="180" />
 </div>
 
 ---
